@@ -1,4 +1,4 @@
-# Matlab-source-files-for-Robust-Topological-Interface-Modes---Robust Topological Interface Modes via All-Dielectric 1D Photonic Crystals
+# Matlab source files for Robust Topological Interface Modes Via All-Dielectric One-Dimensional Photonic Crystals
 
 This repository hosts the supplementary MATLAB scripts for the paper “Robust topological interface modes via all-dielectric one-dimensional photonic crystals”. The files are organized to be self-contained, well-documented, and easy to run on any MATLAB R2020b (or later) installation.
 Contents
